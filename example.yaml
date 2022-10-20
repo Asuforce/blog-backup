@@ -1,0 +1,5 @@
+asuforce.hatenablog.com:
+  username: asuforcegt
+  password: <API KEY>
+default:
+  local_root: ./
